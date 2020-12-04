@@ -1,4 +1,4 @@
-package io.github.chase22.docparser;
+package io.github.chase22.docparser
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import org.jsoup.Jsoup
